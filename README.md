@@ -1,5 +1,8 @@
-# webtemplates
+# Web Templates
+
 This will be used to store all sorts of web templates for futher use in website development. 
+
+I will be using these templates for different web development projects that I will be working on as time continues. 
 
 #Templates to be added
 
